@@ -1,0 +1,78 @@
+/**
+ * @description
+ * App.css is the custom style sheet
+*/
+.App {
+    text-align: left;
+    margin-top: 54px;
+}
+.appContentBody {
+	display: grid;
+	grid-template-columns: 262px 905px;
+	grid-gap: 16px;
+	background-color: #fff;
+	color: #444;
+	margin-top: 3px;
+}
+.mflBrand {
+	text-align: center;
+	margin-left: 85px;
+	font-size: 27px;
+	font-weight: bold;
+}
+.leftBar {
+	color: #fff;
+	border-radius: 5px;
+	height: 545px;
+	width: 268px;
+	font-size: 150%;
+	text-align: left;
+	margin-left: 4px;
+	margin-right: 1rem;
+	background-color: #276696;
+	padding-top: 1px;
+	border-color: #1862ab;
+	-webkit-box-shadow: 1px 3px #276696;
+	box-shadow: 1px 3px #276696;
+	overflow: auto;
+}
+.sidebarWidth{
+	width: 266px;
+}
+.rightBar {
+	color: #000;
+	border-radius: 5px;
+	height: 545px;
+	width: 1045px;
+	font-size: 150%;
+	text-align: center;
+	margin-right: 1rem;
+	background-color: #F3F3F3;
+	border-color: #1862ab;
+	padding-top: 1px;
+	overflow: auto;
+	-webkit-box-shadow: 1px 3px #276696;
+	box-shadow: 1px 2px 1px 2px #276696;
+}
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+.appFooter{
+	text-align: center;
+	font-weight: bold;
+	color:#276696 ;
+}
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

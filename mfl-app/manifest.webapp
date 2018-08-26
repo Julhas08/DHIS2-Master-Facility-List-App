@@ -1,0 +1,24 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "APP",
+  "name": "Master Facility List",
+  "version": "1.0.0",
+  "description": "Master Facility List App-MFL",
+  "developer": {
+    "name": "University of Oslo, Julhas Sujan, Morten Hansen, John Lewis",
+    "email": "julhaspustcse@gmail.com",
+    "skype": "julhas08"
+  },
+  "icons": {
+      "16": "img/mfl-logo.png",
+      "48": "img/mfl-logo.png",
+      "128": "img/mfl-logo.png"
+  },
+  "manifest_generated_at": "Mon August 10 2018 00:53:41 GMT+0600 (Central Asia Standard Time)"
+}
