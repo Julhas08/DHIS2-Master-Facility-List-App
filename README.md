@@ -2,7 +2,7 @@ DHIS2 Master Facility List App
 ===============================
 
 ## Description 
-  This application will help you to manage all facility information as well as server information. The core functionalities are: 
+  This application will help you to manage and get all facilities information as well as integrated service information. The core functionalities are: 
 
     #As a government employee of ministry of health need to know the historical background of a facility 
     #To evaluate accessibility and equity of healthcare services:
