@@ -4,17 +4,13 @@ built/*
 ~*.docx
 \#*\#
 .\#*
-rwc-report.html
-*.swp
 build.json
 *.actual
 *.config
 **/.DS_Store
 .settings
-.idea
 yarn.lock
 yarn-error.log
-.parallelperf.*
 .failed-tests
 TEST-results.xml
 package-lock.json
